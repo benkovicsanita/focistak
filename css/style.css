@@ -1,0 +1,11 @@
+div{
+    background-image: url(../img/ember1.png);
+    width: 42px;
+    height: 128px;
+}
+#kiallitva{
+    background-image: url(../img/ember3.png);
+    width: 128px;
+    height: 128px;
+    margin: 0 auto;
+}
